@@ -5,4 +5,4 @@
 ## <img src="https://github.com/user-attachments/assets/da14c2ee-ea79-46c6-8fc2-0d67abfdbdb0" width="50"/> Hello! I'm Nery! 
 
 🎓 **B.S. Biomedical Engineering** <br>
-🔬 AI Optics and Pulmonary Research @ MGH | 🧬 Biomaterials and Tissue Engineering
+🔬 AI Optics and Pulmonary Research @ MGH   |   🧬 Biomaterials and Tissue Engineering
