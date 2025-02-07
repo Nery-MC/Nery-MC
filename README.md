@@ -7,4 +7,4 @@
 🎓 **B.S. Biomedical Engineering** <br>
 🔬 AI Optics and Pulmonary Research @ MGH   |   🧬 Biomaterials and Tissue Engineering
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nery-MC"/>
